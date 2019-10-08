@@ -2,16 +2,14 @@
 # -*- coding: utf-8 -*-
 
 """
-@Time     : 2019/9/23 16:15
+@Time     : 2019/7/23 14:06
 @Author   : Johnny
 @Email    : yaoqiang@gjzq.com.cn
-@File     : text2num.py
+@File     : logger_demo2.py
 @Software : PyCharm Community
 """
+from log_demo.logger_demo import log_func
 
-str1 = '123.00'
-str2 = float(str1)
+log_func()
 
-print(type(str2))
 
-assert type(str2) is float

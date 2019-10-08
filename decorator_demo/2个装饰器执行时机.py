@@ -8,7 +8,7 @@ def func(functionName):
     print("---func---2---")
     return func_in
 
-@func
+@func #test = func(test)
 def test():
     print("---test----")
     return "haha"

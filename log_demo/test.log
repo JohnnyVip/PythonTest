@@ -1,0 +1,20 @@
+23-35-2019 14:35:02 root:ERROR:Exception occurred
+Traceback (most recent call last):
+  File "D:/learngit/PythonTest/log_demo/logger_demo1.py", line 18, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
+2019-07-23 14:46:18,383 __main__ DEBUG This is a customer debug message
+2019-07-23 14:46:18,383 __main__ INFO This is an customer info message
+2019-07-23 14:46:18,383 __main__ WARNING This is a customer warning message
+2019-07-23 14:46:18,383 __main__ ERROR This is an customer error message
+2019-07-23 14:46:18,383 __main__ CRITICAL This is a customer critical message
+2019-07-23 14:48:20,865 __main__ DEBUG This is a customer debug message
+2019-07-23 14:48:20,865 __main__ INFO This is an customer info message
+2019-07-23 14:48:20,865 __main__ WARNING This is a customer warning message
+2019-07-23 14:48:20,866 __main__ ERROR This is an customer error message
+2019-07-23 14:48:20,866 __main__ CRITICAL This is a customer critical message
+2019-07-23 14:49:09,226 __main__ DEBUG This is a customer debug message
+2019-07-23 14:49:09,226 __main__ INFO This is an customer info message
+2019-07-23 14:49:09,226 __main__ WARNING This is a customer warning message
+2019-07-23 14:49:09,226 __main__ ERROR This is an customer error message
+2019-07-23 14:49:09,226 __main__ CRITICAL This is a customer critical message

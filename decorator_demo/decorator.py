@@ -9,4 +9,31 @@
 @Software : PyCharm Community
 """
 
+class Animal():
 
+    def __init__(self):
+        print("__init__ run ===========================")
+
+    def __call__(self, f):
+        self.func = f
+        self.func.__doc__ = f.__doc__
+        self.afterCall()
+        return self.func
+
+    def afterCall(self):
+        pass
+
+class Cat(Animal):
+
+    def afterCall(self):
+        print("===============+++++++++++++++++================")
+
+@Cat()
+def func():
+    '''
+    测试函数
+    :return:
+    '''
+    print('func run ...........')
+
+#func()

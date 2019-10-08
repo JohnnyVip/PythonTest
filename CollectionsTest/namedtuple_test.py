@@ -3,8 +3,8 @@
 
 from collections import namedtuple
 
-Circle = namedtuple('Circle',['x','y','r'])
-c = Circle(1,2,3)
+Circle1 = namedtuple('Circle',"x y r")
+c = Circle1(1,2,3)
 
 print(c)
 print(c.x,c.y,c.r)

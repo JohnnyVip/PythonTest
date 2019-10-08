@@ -9,4 +9,21 @@
 @Software : PyCharm Community
 """
 
+def func():
 
+    direction = 3  # 滚动方向
+
+    a = 4
+
+    if a < 5:
+        direction = 1
+    else:
+        direction = 0
+
+    print(direction)
+
+#func()
+
+aa = (1,2,3)
+for i in aa:
+    print(i)

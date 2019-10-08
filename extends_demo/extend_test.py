@@ -9,4 +9,14 @@
 @Software : PyCharm Community
 """
 
+class foo(object):
+    def __init__(self,driver):
+        print('foo __init__ ...')
+        self.driver = driver
 
+class child(foo):
+    def __init__(self,driver):
+         super(child, self).__init__(driver)
+    pass
+
+p = child('haha')

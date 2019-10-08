@@ -10,3 +10,11 @@
 """
 
 
+def add(x, y) -> str:
+    return str(x + y)
+
+a = add(1, 2)
+
+print(type(a))
+
+print(a)
