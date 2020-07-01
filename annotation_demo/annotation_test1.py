@@ -18,10 +18,7 @@ sig = inspect.signature(foobar)
 
 print(sig.parameters)
 
-
 print(foobar.__annotations__)
-
-
 
 print(foobar(3))
 
