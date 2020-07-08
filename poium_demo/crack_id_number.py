@@ -23,4 +23,3 @@ page.get("http://www.hzhr.com/Web/Agent/Archives.html%EF%BC%88%E6%B9%96%E5%B7%9E
 page.name.send_keys("郁乐乐")
 page.school.send_keys("浙江大学")
 page.query.click()
-
