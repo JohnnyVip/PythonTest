@@ -1,11 +1,15 @@
-# !/usr/bin/env python3
-# -*- coding:utf-8 -*-
-# @Time   :2019/6/25 22:22
-# @Author :Johnny
-# @Email  :yaoqiang@Gjzq.com.cn
-# @File   :lock_test.py
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-import time, threading
+"""
+@Time     : 2020/1/23 14:54
+@Author   : Johnny
+@Email    : yaoqiang@gjzq.com.cn
+@File     : lockDemo.py
+@Software : PyCharm Community
+"""
+
+import threading
 
 # 假定这是你的银行存款:
 balance = 0

@@ -10,6 +10,7 @@
 """
 
 from functools import wraps
+
 def wrapper(func):
     @wraps(func)
     def inner(self,*args,**kwargs):
