@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a0cb09-bf06-4ecc-acfc-759b3b2ab229" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/__str__demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/call_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator_demo/decorator6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict_get_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logger_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton/single_demo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton/singleton_demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorted_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorator_demo/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/decorator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorator_demo/decorator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/decorator2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorator_demo/decorator4.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/decorator4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorator_demo/decorator5.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/decorator5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorator_demo/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log_demo/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/log_demo/test.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poium_demo/crack_id_number_bak.py" beforeDir="false" afterPath="$PROJECT_DIR$/poium_demo/crack_id_number_bak.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="y" value="2" />
     <option name="width" value="1380" />
@@ -121,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,20 +111,11 @@
               <item name="PythonTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonTest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PythonTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonTest" type="462c0819:PsiDirectoryNode" />
-              <item name="smtp_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonTest" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,9 +298,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18675596" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18601191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,7 +311,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928944" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.9035608" weight="0.15771231" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.9035608" visible="true" weight="0.33105803" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50816023" side_tool="true" weight="0.3015598" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.35605007" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
