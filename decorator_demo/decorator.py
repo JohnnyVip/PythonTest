@@ -36,4 +36,4 @@ def func():
     '''
     print('func run ...........')
 
-#func()
+func()

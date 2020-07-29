@@ -2,34 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a0cb09-bf06-4ecc-acfc-759b3b2ab229" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Haitong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterable_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bool_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comprehensions_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumerate_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/face_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidemo/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidemo/camera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidemo/face_contrast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidemo/face_database/yaoqiang_18516730037.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidemo/face_database/yaoqiang_18516730037.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidemo/face_liveness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidemo/hz.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidemo/no_person.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guidemo/person.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/init_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kw_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paipai/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paipai/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paipai/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paipai/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paipai/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paipai/images/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paipai/images/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paipai/images/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ternary_operator_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__str__demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/call_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator_demo/decorator6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict_get_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logger_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/single_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/singleton_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorted_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poium_demo/crack_id_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/poium_demo/crack_id_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator_demo/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator_demo/decorator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/decorator2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator_demo/decorator4.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/decorator4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator_demo/decorator5.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/decorator5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator_demo/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/decorator_demo/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_demo/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/log_demo/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poium_demo/crack_id_number_bak.py" beforeDir="false" afterPath="$PROJECT_DIR$/poium_demo/crack_id_number_bak.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,95 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guidemo/face_contrast.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poium_demo/crack_id_number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-              <folding>
-                <element signature="e#198#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kw_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iterable_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/enumerate_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comprehensions_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ternary_operator_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bool_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guidemo/README">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -140,6 +42,8 @@
       <find>run</find>
       <find>tempimagepath</find>
       <find>fileList</find>
+      <find>logger</find>
+      <find>Logger</find>
     </findStrings>
     <replaceStrings>
       <replace>faceList</replace>
@@ -151,23 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/list2DictDemo.py" />
-        <option value="$PROJECT_DIR$/split_demo.py" />
-        <option value="$PROJECT_DIR$/earning_rate_calculation.py" />
-        <option value="$PROJECT_DIR$/eraning_rate/earning_rate_calculation.py" />
-        <option value="$PROJECT_DIR$/sshDemo.py" />
-        <option value="$PROJECT_DIR$/clientId2pid.py" />
-        <option value="$PROJECT_DIR$/ugly_number.py" />
-        <option value="$PROJECT_DIR$/list_demo.py" />
-        <option value="$PROJECT_DIR$/sort_demo.py" />
-        <option value="$PROJECT_DIR$/round_demo.py" />
-        <option value="$PROJECT_DIR$/poium_demo.py" />
-        <option value="D:/Program Files/Python/Python36/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
-        <option value="$PROJECT_DIR$/enumuate_demo.py" />
-        <option value="$PROJECT_DIR$/float_demo.py" />
-        <option value="$PROJECT_DIR$/jsonpath_demo.py" />
-        <option value="$PROJECT_DIR$/jsonpath_demo2.py" />
-        <option value="$PROJECT_DIR$/jsonpath_demo/book.json" />
         <option value="$PROJECT_DIR$/jsonpath_demo/jsonpath_demo2.py" />
         <option value="$PROJECT_DIR$/dict_demo.py" />
         <option value="$PROJECT_DIR$/test_self.py" />
@@ -180,7 +67,6 @@
         <option value="$PROJECT_DIR$/poium_demo/get_id_1_to_6.py" />
         <option value="$PROJECT_DIR$/annotation_demo/annotation_test1.py" />
         <option value="$PROJECT_DIR$/uat02_data.py" />
-        <option value="$PROJECT_DIR$/poium_demo/crack_id_number_bak.py" />
         <option value="$PROJECT_DIR$/python_gui_demo.py" />
         <option value="$PROJECT_DIR$/guidemo/windows.py" />
         <option value="$PROJECT_DIR$/guidemo/011根据ip查询地理位置.py" />
@@ -202,11 +88,30 @@
         <option value="$PROJECT_DIR$/enumerate_demo.py" />
         <option value="$PROJECT_DIR$/comprehensions_demo.py" />
         <option value="$PROJECT_DIR$/ternary_operator_demo.py" />
+        <option value="$PROJECT_DIR$/sorted_demo.py" />
+        <option value="$PROJECT_DIR$/dict_get_demo.py" />
+        <option value="$PROJECT_DIR$/poium_demo/crack_id_number_bak.py" />
+        <option value="$PROJECT_DIR$/decorator_demo/decorator4.py" />
+        <option value="$PROJECT_DIR$/__str__demo.py" />
+        <option value="$PROJECT_DIR$/tree/1.py" />
+        <option value="$PROJECT_DIR$/tree/2.py" />
+        <option value="$PROJECT_DIR$/singleton_demo.py" />
+        <option value="$PROJECT_DIR$/singleton_demo/singleton_demo1.py" />
+        <option value="$PROJECT_DIR$/call_demo.py" />
+        <option value="$PROJECT_DIR$/singleton/single_demo2.py" />
+        <option value="$PROJECT_DIR$/decorator_demo/decorator5.py" />
+        <option value="$PROJECT_DIR$/decorator_demo/decorator.py" />
+        <option value="$PROJECT_DIR$/decorator_demo/decorator2.py" />
+        <option value="$PROJECT_DIR$/decorator_demo/decorator6.py" />
+        <option value="$PROJECT_DIR$/log_demo/test.log" />
+        <option value="$PROJECT_DIR$/logger_demo.py" />
+        <option value="$PROJECT_DIR$/email_demo.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1" />
+    <option name="y" value="2" />
     <option name="width" value="1380" />
     <option name="height" value="735" />
   </component>
@@ -216,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,11 +129,20 @@
               <item name="PythonTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonTest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTest" type="462c0819:PsiDirectoryNode" />
+              <item name="smtp_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTest" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,18 +151,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\learngit\PythonTest\guidemo\face_database" />
-      <recent name="D:\learngit\PythonTest\guidemo" />
-      <recent name="D:\learngit\PythonTest\paipai" />
-      <recent name="D:\learngit\PythonTest\poium_demo" />
-      <recent name="D:\learngit\PythonTest\jsonpath_demo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\learngit\PythonTest\guidemo\face_database" />
       <recent name="D:\learngit\PythonTest\guidemo" />
       <recent name="D:\learngit\PythonTest\paipai" />
       <recent name="D:\learngit\PythonTest" />
+      <recent name="D:\learngit\PythonTest\poium_demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\learngit\PythonTest\singleton_demo" />
+      <recent name="D:\learngit\PythonTest\guidemo\face_database" />
+      <recent name="D:\learngit\PythonTest\guidemo" />
+      <recent name="D:\learngit\PythonTest\paipai" />
       <recent name="D:\learngit\PythonTest\poium_demo" />
     </key>
   </component>
@@ -263,8 +178,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ternary_operator_demo">
-    <configuration name="Iterable_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.email_demo">
+    <configuration name="2个装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorator_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterable_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorator_demo/2个装饰器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comprehensions_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="decorator6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorator_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehensions_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorator_demo/decorator6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="enumerate_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="email_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,7 +233,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enumerate_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/email_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kw_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logger_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kw_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log_demo/logger_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,34 +263,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ternary_operator_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in 2个装饰器执行时机.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorator_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ternary_operator_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/decorator_demo/2个装饰器执行时机.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ternary_operator_demo" />
-        <item itemvalue="Python.comprehensions_demo" />
-        <item itemvalue="Python.enumerate_demo" />
-        <item itemvalue="Python.Iterable_demo" />
-        <item itemvalue="Python.kw_demo" />
+        <item itemvalue="Python.email_demo" />
+        <item itemvalue="Python.logger_demo" />
+        <item itemvalue="Python tests.pytest in 2个装饰器执行时机.py" />
+        <item itemvalue="Python.2个装饰器" />
+        <item itemvalue="Python.decorator6" />
       </list>
     </recent_temporary>
   </component>
@@ -411,23 +320,25 @@
     <history-entry file="pytest_for_self_demo_TestSelf - 2020.06.12 at 10h 17m 50s.xml">
       <configuration name="pytest for self_demo.TestSelf" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_2个装饰器执行时机_py - 2020.07.23 at 14h 41m 33s.xml">
+      <configuration name="pytest in 2个装饰器执行时机.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21087928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18675596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49183977" weight="0.10571924" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9035608" visible="true" weight="0.26169845" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49183977" weight="0.10469314" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9035608" visible="true" weight="0.13139932" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.90207714" weight="0.2357019" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.9035608" weight="0.12305026" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.9035608" weight="0.15771231" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50816023" side_tool="true" weight="0.3015598" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.35605007" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -436,199 +347,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sort_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/enumuate_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/float_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/self_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsonpath_demo/jsonpath_demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="50" column="49" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="49" />
-          <folding>
-            <element signature="e#196#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsonpath_demo/book.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poium_demo/poium_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="11" selection-start-line="11" selection-end-line="24" selection-end-column="25" />
-          <folding>
-            <element signature="e#192#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poium_demo/get_id_1_to_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="e#196#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="481" column="8" selection-start-line="481" selection-start-column="8" selection-end-line="481" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/annotation_demo/annotation_test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python36/Lib/site-packages/poium/page_objects.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-985">
-          <caret line="114" column="8" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poium_demo/crack_id_number_bak.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#197#208#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uat02_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guidemo/python_gui_demo.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1652892022/cv2/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-326">
-          <caret line="11432" column="4" selection-start-line="11432" selection-start-column="4" selection-end-line="11432" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1652892022/cv2/cv2/VideoCapture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python36/Lib/site-packages/aip/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-608">
-          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python36/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="182" column="4" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guidemo/ip测试.rtf" />
-    <entry file="file://$PROJECT_DIR$/guidemo/GeoLiteCity.dat" />
-    <entry file="file://D:/Program Files/Python/Python36/Lib/site-packages/pygeoip/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="44" column="28" lean-forward="true" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python36/Lib/site-packages/jedi/third_party/typeshed/stdlib/3/tkinter/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="242" column="29" selection-start-line="242" selection-start-column="29" selection-end-line="242" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python36/Lib/site-packages/PyWeChatSpy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paipai/images/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python36/Lib/site-packages/PyWeChatSpy/spy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="176" column="31" lean-forward="true" selection-start-line="176" selection-start-column="31" selection-end-line="176" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guidemo/person.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python36/Lib/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="734" column="8" selection-start-line="734" selection-start-column="8" selection-end-line="734" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guidemo/yaoqiang_18516730037.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guidemo/face_database/yaoqiang_18516730037.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/guidemo/camera.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
@@ -689,16 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/guidemo/face_contrast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bool_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -713,34 +421,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poium_demo/crack_id_number.py">
+    <entry file="file://$PROJECT_DIR$/ugly_number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding>
-            <element signature="e#198#233#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="460">
+          <caret line="32" column="54" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kw_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iterable_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/enumerate_demo.py">
+    <entry file="file://$PROJECT_DIR$/ternary_operator_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -751,10 +442,262 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ternary_operator_demo.py">
+    <entry file="file://$PROJECT_DIR$/enumerate_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterable_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kw_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guidemo/face_contrast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poium_demo/crack_id_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="e#198#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorted_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_demo/flask_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#47#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poium_demo/crack_id_number_bak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#197#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict_get_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stopiteration_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__str__demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/2.py" />
+    <entry file="file://$PROJECT_DIR$/call_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/deepcopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singleton/single_demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/decorator5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/decorator4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+          <folding>
+            <element signature="e#184#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/decorator3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/decorator1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/2个装饰器执行时机.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/2个装饰器图解.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/2个装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/decorator2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python/Python36/Lib/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2862">
+          <caret line="1440" column="19" selection-start-line="1440" selection-start-column="8" selection-end-line="1440" selection-end-column="19" />
+          <folding>
+            <element signature="e#142#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drived_demo/derived_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Program Files/Python/Python36/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="1013" column="8" selection-start-line="1013" selection-start-column="8" selection-end-line="1013" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_demo/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_demo/logger_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/decorator6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="e#192#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logger_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="e#194#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator_demo/decoratorClasses_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="50" column="47" lean-forward="true" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smtp_demo/smtp_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <element signature="e#192#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singleton/singleton_demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
         </state>
       </provider>
     </entry>

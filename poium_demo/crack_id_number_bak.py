@@ -14,10 +14,10 @@ from poium import Page, PageElement
 from selenium import webdriver
 
 # city_id = ["620103","620104","620111","620121","620122","620123","620102","620105"]
-city_id = ["340102","340103","340104","340111"]
+city_id = ["330522","330521","330523"]
 
 dat = ["01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18",
-       "19","20","21","22","23","24","25","26","27","28","29"]
+       "19","20","21","22","23","24","25","26","27","28","29","30","31"]
 
 class LoginPage(Page):
     type = PageElement(name='type')
@@ -33,7 +33,7 @@ page.id_type.click()
 
 for cityId in city_id:
     for dat_time in dat:
-        id_str = cityId + "199202" + dat_time + "541X"
+        id_str = cityId + "199002" + dat_time + "3066"
         page.id_num.clear()
         page.id_num.send_keys(id_str)
         page.query.click()

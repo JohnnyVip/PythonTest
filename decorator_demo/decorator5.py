@@ -26,5 +26,5 @@ class Eat(object):
         print('my lunch is ' + self.food)
 
 if __name__ == "__main__":
-    e = Eat('rice', 'water')
+    e = Eat('rice','water')
     e.display()

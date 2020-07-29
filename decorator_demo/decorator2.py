@@ -4,6 +4,7 @@
 from functools import wraps
 from functools import update_wrapper
 
+
 def log(text):
     def decorator(func):
         #@wraps(func)
