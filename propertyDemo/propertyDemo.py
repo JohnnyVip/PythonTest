@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 """
-@Time     : 2019/7/24 19:59
+@Time     : 2020/1/22 13:22
 @Author   : Johnny
 @Email    : yaoqiang@gjzq.com.cn
-@File     : property_test1.py
+@File     : propertyDemo.py
 @Software : PyCharm Community
 """
 
@@ -23,9 +23,7 @@ class Student(object):
             raise ValueError('score must between 0 ~ 100!')
         self._score = value
 
-#error
-#s = Student().score()
+s = Student()
 
-s = Student().score
-
-print(s)
+s.score = 99
+print(s.score)
