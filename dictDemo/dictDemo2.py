@@ -11,4 +11,5 @@
 
 d = dict(name='Bob', age=20, score=88)
 print(d)
-print(type(d))
+print(d.get("name"))
+print(d.get("sex",'no key'))
