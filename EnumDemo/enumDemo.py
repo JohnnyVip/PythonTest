@@ -16,6 +16,7 @@ class Gender(Enum):
     Male = 0
     Female = 1
 
+
 class Student(object):
     def __init__(self, name, gender):
         self.name = name
